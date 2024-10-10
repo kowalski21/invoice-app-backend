@@ -55,6 +55,8 @@ This is a django project so all you need is have `python` installed on your loca
 
   cd invoice-app-backend
   pip install > requirements.txt
+  python manage.py migrations
+  python manage runserver #start the django server on port 8000
 ```
 
 ## Authors
