@@ -1,0 +1,5 @@
+Django
+requests
+django-ninja
+celery
+redis
